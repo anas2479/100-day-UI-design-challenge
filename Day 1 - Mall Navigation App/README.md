@@ -6,4 +6,4 @@ A digital mall navigation app that will store a digital map of all the shopping 
 * Figma *The tool used to create the design*.
 
 
-![]('design/design.png')
+![design]('design/design.png')
