@@ -9,4 +9,5 @@ Design a 404 page that also suggests possible pages based on the search query or
 
 <br>
 <br>
+
 ![design](Design/design.png)
